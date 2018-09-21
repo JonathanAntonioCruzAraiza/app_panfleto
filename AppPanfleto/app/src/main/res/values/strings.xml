@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Club Ámerica</string>
+    <string name="historia">Historia De las Águilas</string>
+    <string name="calendario">Calendario</string>
+    <string name="Productos">Productos</string>
+    <string name="progress">Progreso</string>
+    <string name="tema_conten">Un día como hoy 20 de septiembre pero de 1981, se escribió una parte muy importante en la historia del Club, nació el mote de las Águilas del América.
+                               En los inicios de la década de los ochenta se tenía en la mente regresar a los grandes planos al Club América, el equipo necesitaba una reestructuración, con nuevas y mejores contrataciones de futbolistas, cambiar el uniforme por uno más espectacular, original y diferente a todos los demás y por si esto fuera poco se quería cambiar el nombre de la escuadra azulcrema por un mote más imponente.
+
+                               En México la tradición de los uniformes era un tema casi intocable, ningún club cambiaba la tradición de los estilos. El América fue innovador en ese sentido. Lo que antes era azul marino y crema se convirtió en una estilización, el azul se vuelve rey, y el crema en un amarillo de tono más saturado. En la camiseta surge la ‘V’ de la victoria y la imagen del equipo se transforma desde ese momento a ser Las Águilas del América.
+                               El 20 de Septiembre de 1981, fue presentado ante los medios de comunicación en el Estadio Azteca, el mote de Las Águilas del América.
+
+                                Fue así que los Cremas, los Millonetas o los Canarios como se les conocía  quedaron atrás y ahora la afición americanista iniciaba a identificarse con el nombre de las Águilas del América. La misma gente aceptó rápidamente el cambio y le agregó el adjetivo de Las Poderosas Águilas, fue todo un éxito. Por un tiempo el nombre de las Águilas contó hasta con su propio logotipo.</string>
+    <string name="activs_didec">activs_didec</string>
+    <string name="eval_usuario">eval_usuario</string>
+    <string name="progress_usuario">progress_usuario</string>
+</resources>

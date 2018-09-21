@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ProductActivity">
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="163dp"
+                    android:id="@+id/ivProducto1"
+                    android:src="@drawable/producto_1"/>
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="163dp"
+                    android:id="@+id/ivProducto2"
+                    android:src="@drawable/producto_2"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="163dp"
+                    android:id="@+id/ivProducto3"
+                    android:src="@drawable/producto_3"/>
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="163dp"
+                    android:id="@+id/ivProducto4"
+                    android:src="@drawable/producto_4"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="163dp"
+                    android:id="@+id/ivProducto5"
+                    android:src="@drawable/producto_5"/>
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="163dp"
+                    android:id="@+id/ivProducto6"
+                    android:src="@drawable/producto_6"/>
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="163dp"
+                    android:id="@+id/ivProducto7"
+                    android:src="@drawable/producto_7"/>
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="163dp"
+                    android:id="@+id/ivProducto8"
+                    android:src="@drawable/producto_8"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="163dp"
+                    android:id="@+id/ivProducto9"
+                    android:src="@drawable/producto_9"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
